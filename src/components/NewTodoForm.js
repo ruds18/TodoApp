@@ -19,7 +19,7 @@ export default class NewTodoForm extends Component {
         this.setState({
             todo:""
         })
-        alert("Task Saved ! .. Good Luck! ☺️")
+        
     }
     render() {
         return (
